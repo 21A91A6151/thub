@@ -1,0 +1,145 @@
+aec.edu.in
+acet.ec.in
+acoe.edu.in
+technicalhub.io
+codemind.io
+dev.technicalhub.io
+owlcoder.io
+owlcoder.technicalhub.io
+
+tracert website name( to check the server is in on-premises or out premises)
+
+=============
+c:/notepad test.txt(name)
+
+
+#VIRTUALIZATION:
+
+
+
+
+
+
+#LINUX:
+editores
+
+
+to esc from nanao editor 
+crl+o-->for saving in nano
+ctrl+x
+
+for rename also we use mv oldfilename newfilename
+cp old new
+vi file2
+nano file2
+
+installing python in ubuntu
+apt install python3
+python3 --version
+
+nano filepy.py
+python3 filepy.py
+
+mkdir -p 1/2/3/4/5-->creating 5 directories inside inside 1
+mkdir 6 7 8 9 10 -> creating directories in same directory.
+
+moving one file in one directory to another in /root/ in test directory.
+mv dir1 /root/
+
+
+In linux we use ssh protocol -> it can allow more than one user to single machine.
+
+but in windows we  use RDP it can allows only one user at a time.
+
+
+settings
+sharing
+enable the remote control
+
+in our windoes run 
+
+
+
+
+
+============================================
+Services:
+1.Ec2 instance:
+
+
+
+
+Azure:
+
+
+file sharing in windows:
+create a foldedr in any location give name.
+right click on folder click on properties at that there is a option called sharing
+here click share and then dropdown and select everyone next, click on share once again.
+after share go for advance sharing and enable check mark, click on permissions and give full control to everyone. nxt apply and close.
+
+in accessesors:
+at run command give command "\\ipaddressof that person".
+
+shift+crl+f --> ctrl+s
+/--> etc--> cd ssh -->nano sshd_config --> PERMIT THE ROOT LOGIN And give yes and passwd aunthentication also we want it in yes and without comment --> ctrl+o-->enter -->ctrl s.
+systemctl restart sshd
+service sshd restart(both are same)
+passwd root
+apt update
+
+shift+crl+c (copy) -->shift+ctrl+v(paste)
+
+connecting termious with google cloud:
+
+scp <from location> <user_name>@<ip_address>
+
+
+====================================
+
+          AZURE    AWS    Googlecloud  oracle
+compute     vm     ec2    instance  instance
+network     vnet   vpc    vpc       vcn
+storage     SA     S3     storage   bucket
+DB          sql    nosql   mongo
+
+
+cd
+mkdie
+rm
+touch
+cat
+cat >>
+rmdir
+rm -rf 
+pwd
+who
+who am i
+$-standard user
+#-root user
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
